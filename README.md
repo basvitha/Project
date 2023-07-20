@@ -1,2 +1,2 @@
-# Project
-Interesting Projects
+# Django Project
+Online Bus Ticket Booking Website. 
